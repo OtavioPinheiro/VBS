@@ -7,3 +7,11 @@ Aprender a programar em VBS
 2. [Tabela]()
 
 ## O que é VBS?
+
+## Tabela
+
+| Número | Tipo | Exbição - Inglês | Exibição - Português (PT-BR) |
+|--------|------|------------------|------------------------------|
+| 0 | :Normal | {OK} | {OK} |
+| 1 | :Normal | {OK}{Cancel} | {OK}{Cancelar} |
+| 2 | :Normal | {Abort}{Retry}{Ignore} | {Abortar}{Repetir}{Ignorar} |
